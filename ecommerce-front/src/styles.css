@@ -8,6 +8,10 @@
     border-radius: 0px;
 }
 
+.cursor-pointer{
+    cursor: pointer;
+}
+
 /* cart badge */
 
 .cart-badge,

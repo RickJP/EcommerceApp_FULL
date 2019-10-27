@@ -197,7 +197,7 @@ const AddProduct = () => {
 
     return (
         <Layout
-            className
+            className=""
             children
             title="Add a new product"
             description={`G'day ${user.name}, ready to add a new product?`}
